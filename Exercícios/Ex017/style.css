@@ -1,0 +1,15 @@
+UTF-8
+<style>
+   body {
+        font-family: sans-serif;
+        color:rgb(21, 20, 20);
+        background-image :linear-gradient(to right,  #33FFD1, #2DE7FC, #3D70FF);
+        background-attachment: fixed;
+    }
+    h1 {
+        color: rgb(158, 87, 223);
+    }
+    h2 {
+        color: rgb(158, 87, 223);
+    }
+</style>
